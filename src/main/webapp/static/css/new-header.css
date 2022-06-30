@@ -1,0 +1,59 @@
+@charset "ISO-8859-1";
+
+.header-fixed {
+	position: relative;
+	z-index: 333;
+}
+
+.header-fixed .logo-wrapper {
+	height: 90px !important;;
+}
+
+.typeheader-4 .header-top, .header-top a {
+	font-size: 16px !important;
+	color: #e1dcdc;
+}
+
+.header-top-left {
+	line-height: 42.986px;
+}
+
+.typeheader-4 .header-middle {
+	padding: 33px 0 0 0 !important;;
+}
+
+.logo {
+	transform: translateY(-36px) !important;
+}
+
+.typeheader-4 #sosearchpro .search .select_category select,
+	.typeheader-4 #sosearchpro .search input, .typeheader-4 .shopping_cart .btn-shopping-cart .top_cart .shopcart-inner .text-shopping-cart,
+	.typeheader-4 .shopping_cart .btn-shopping-cart .top_cart .shopcart-inner .total-shopping-cart
+	{
+	font-size: 15px;
+}
+
+.typeheader-4 #sosearchpro .search .select_category option {
+	padding: 10px 5px;
+}
+
+.typeheader-4 .search-header-w {
+	width: 60% !important;
+}
+
+.typeheader-4 .shopping_cart {
+	width: 30% !important;
+}
+
+.btn-shopping-cart {
+	float: right;
+}
+
+.btn-shopping-cart .dropdown-menu {
+	min-width: 380px;
+}
+
+.typeheader-4 .shopping_cart .btn-shopping-cart .top_cart .shopcart-inner .text-shopping-cart
+	{
+	padding-right: 20px;
+}

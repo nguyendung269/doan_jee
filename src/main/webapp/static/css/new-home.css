@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+
+
+.container-megamenu.horizontal ul.megamenu>li>a {
+	padding: 18px 25px !important;
+}
+
+.row-image {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.layout-4.common-home #content .module h3.modtitle {
+	margin-bottom: 24px;
+}
+
+.layout-4.common-home #content .module h3.modtitle span {
+	font-size: 26px;
+	font-weight: 600;
+}
+.products-list.grid .product-item-container .right-block h4 a, .products-list .product-grid .product-item-container .right-block h4 a {
+    font-size: 16px;
+    font-weight: 500;
+    color: #282828;
+    text-transform: uppercase;
+}
+.label-product, .label-new, .label-sale {
+	font-size: 15px;
+}
+.layout-4.common-home #content .module h3.modtitle span:before {
+    width: 300px;
+    height: 1px;
+    top: 56%;
+    left: -300px;
+   
+}
+.layout-4.common-home #content .module h3.modtitle span:after {
+    width: 300px;
+    height: 1px;
+    top: 56%;
+    right: -300px;
+   
+}
+.btn-more {
+	padding: 8px 16px;
+	border: 1px solid  #ff2d37;
+	border-radius: 8px; 	
+	transition: all 0.5s ease;
+}
+
+.btn-more a {
+	font-size: 18px;
+	color: #ff2d37;
+	transition: all 0.3s ease;
+}
+
+.btn-more:hover {
+	background-color: #ff2d37;
+}
+.btn-more:hover a {
+	color: white;
+}
+.banners2 {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.toast {
+	background-color:  #ff2d37  !important;
+}
